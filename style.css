@@ -15,3 +15,8 @@
     --fontes-titulo:  "Platypi", serif;
     --fonte-texto: "Josefin Sans", sans-serif;
 }
+
+body{
+    background-color: var(--celereiro-vermelho)
+    color var(--azul-da-prussia)
+}
