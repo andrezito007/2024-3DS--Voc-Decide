@@ -12,11 +12,29 @@
     --chicote-de-mamao: #fdf0d5ff;
     --azul-da-prussia: #003049ff;
     --superioridade-aerea-azul: #669bbcff;
-    --fontes-titulo:  "Platypi", serif;
+    --fonte-titulo:  "Platypi", serif;
     --fonte-texto: "Josefin Sans", sans-serif;
 }
 
 body{
-    background-color: var(--celereiro-vermelho)
-    color var(--azul-da-prussia)
+    background-color: var(--celereiro-vermelho);
+    color: var(--superioridade-aerea-azul);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: var(--fonte-texto);
+}
+
+.caixa-principal{
+    background-color: var(--tijolo-de-fogo);
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+    padding: 20px;
+}
+
+.titulo{
+    color: var(--chicote-de-mamao);
+    font-family: var(--fonte-titulo);
 }
