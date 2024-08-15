@@ -6,7 +6,7 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
     {
-        enunciado: "texto01",
+        enunciado: "Você é um adolescente de 15 anos que após seus pais lhe contarem que vão viajar, eles te enviam para passar alguns dias na casa de sua vó, cerca de uma semana, você fica muito animado pois é a primeira vez que passará alguns dias com sua vó. No dia seguinte seus pais vão para a viagem ",
         alternativas: [
             {
                 texto:'alternativa01',
