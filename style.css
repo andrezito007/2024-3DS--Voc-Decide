@@ -38,3 +38,17 @@ body{
     color: var(--chicote-de-mamao);
     font-family: var(--fonte-titulo);
 }
+
+button{
+    background-color: var(--chicote-de-mamao);
+    color: var(--azul-da-prussia);
+    border: none;
+    border-radius: 15px;
+    padding: 15px;
+    transition: 0.3s;
+    margin: 10px auto;
+}
+
+button:hover{
+    background-color: var(--celereiro-vermelho);
+}
