@@ -20,7 +20,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você olha ao redor e percebe um papel meio rasgado jogado no chão, como você é muito curioso(a), você vai até o papel e percebe que é uma lista de regras, contendo apenas 4: 'Regra 1: Se você está lendo isso, você vai morrer, então faça que sua morte seja menos dolorosa, não vá ao quarto 02; Regra 2: Se você ver ela apenas sorria, você não quer ver ela brava...; Regra 3: Em hipotese alguma diga que está com fome, acredite ela que vai se alimentar; Regra 4: Não tente abrir a porta, você não vai conseguir escapar. Aproveite sua estadia, pois será a ultima.' ",
+        enunciado: "Você olha ao redor e percebe um papel meio rasgado jogado no chão, como você é muito curioso(a), você vai até o papel e percebe que é uma lista de regras, contendo apenas 4: 'Regra 1: Se você está lendo isso, você vai morrer, então faça que sua morte seja menos dolorosa, não vá ao quarto 02; Regra 2: Se você ver ela apenas sorria, você não quer ver ela brava...; Regra 3: Em hipótese alguma diga que está com fome, acredite ela que vai se alimentar; Regra 4: Não tente abrir a porta, você não vai conseguir escapar. Aproveite sua estadia, pois será a ultima.' ",
         alternativas: [
             {
                 texto:'Você olha para o papel e decide ignorar achando que é apenas uma brincadeira.',
@@ -34,7 +34,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao terminar de ler o papel, você olha para trás e vê sua vó com um rosto deformado por conta de um 'acidente' que ocorreu antigamente, você decide não questionar e apenas seguir as regras por medo, então logo dá um sorriso. Após isso ela te chama para a cozinha e pergunta se você esta com fome, você rapidamente diz que não pois já estava sem fome. Ela apenas te encara com um sorriso.",
+        enunciado: "Ao terminar de ler o papel, você olha para trás e vê sua vó com um rosto deformado por conta de um 'acidente' que ocorreu antigamente, você decide não questionar e apenas seguir as regras por medo, então logo dá um sorriso. Após isso ela te chama para a cozinha e pergunta se você está com fome, você rapidamente diz que não pois já estava sem fome. Ela apenas te encara com um sorriso.",
         alternativas: [
             {
                 texto:'Você sorri de volta e vai até o banheiro para respirar um pouco',
@@ -48,7 +48,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao olhar ao redor do cômodo você se depara com um corpo em decomposição e percebe que era de um primo seu que havia sumido há 1 meses, você se assusta e sai do cômodo correndo e se depara com sua vó com duas facas te esperando e você também percebe que ela está sem a mandibula. O que você faz?",
+        enunciado: "Ao olhar ao redor do cômodo você se depara com um corpo em decomposição e percebe que era de um primo seu que havia sumido há 1 mês, você se assusta e sai do cômodo correndo e se depara com sua vó com duas facas te esperando e você também percebe que ela está sem a mandibula. O que você faz?",
         alternativas: [
             {
                 texto:'Você dá um sorriso debochado e com medo e sai correndo e sem querer entra no quarto 02',
