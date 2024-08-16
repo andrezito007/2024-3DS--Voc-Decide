@@ -7,17 +7,17 @@
 }
 
 :root{
-    --celereiro-vermelho: #780000ff;
-    --tijolo-de-fogo: #c1121fff;
-    --chicote-de-mamao: #fdf0d5ff;
-    --azul-da-prussia: #003049ff;
-    --superioridade-aerea-azul: #669bbcff;
+    --celereiro-vermelho: rgb(48, 21, 59);
+    --tijolo-de-fogo: rgb(30, 31, 36);
+    --chicote-de-mamao: rgb(251, 251, 251);
+    --azul-da-prussia: rgb(147, 110, 167);
+    --superioridade-aerea-azul: rgb(60, 23, 72);
     --fonte-titulo:  "Platypi", serif;
     --fonte-texto: "Josefin Sans", sans-serif;
 }
 
 body{
-    background-color: var(--celereiro-vermelho);
+    background-color: var(--superioridade-aerea-azul);
     color: var(--chicote-de-mamao);
     display: flex;
     justify-content: center;
